@@ -7,4 +7,7 @@ Rails.application.routes.draw do
 	get 'home/button_modifier'
 	get 'home/card'
 	get 'home/carousel'
+	get 'home/collapse'
+	get 'home/dropdown'
+	get 'home/form'
 end

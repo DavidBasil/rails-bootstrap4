@@ -15,4 +15,10 @@ class HomeController < ApplicationController
   end
   def carousel
   end
+  def collapse
+  end
+  def dropdown
+  end
+	def form
+	end
 end
