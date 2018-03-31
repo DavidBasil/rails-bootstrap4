@@ -1,5 +1,9 @@
 Rails.application.routes.draw do
-	root 'home#index'
-
-  # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
+	get 'home/alert'
+	get 'home/badge'
+	get 'home/breadcrumb'
+	get 'home/button'
+	get 'home/button_group'
+	get 'home/button_modifier'
+	get 'home/card'
 end
