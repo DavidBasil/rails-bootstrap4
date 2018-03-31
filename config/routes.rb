@@ -6,4 +6,5 @@ Rails.application.routes.draw do
 	get 'home/button_group'
 	get 'home/button_modifier'
 	get 'home/card'
+	get 'home/carousel'
 end
