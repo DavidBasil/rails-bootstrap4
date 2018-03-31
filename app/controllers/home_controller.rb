@@ -21,4 +21,6 @@ class HomeController < ApplicationController
   end
 	def form
 	end
+	def grid
+	end
 end

@@ -10,4 +10,5 @@ Rails.application.routes.draw do
 	get 'home/collapse'
 	get 'home/dropdown'
 	get 'home/form'
+	get 'home/grid'
 end
